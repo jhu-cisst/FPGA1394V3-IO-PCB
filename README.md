@@ -9,5 +9,6 @@ This board is used in the [dVRK Si Controller](https://github.com/jhu-dvrk/dVRK-
 ## Files
 
 * `dvrk-ios.kicad_pro`: KiCad project file
-* `dvrk-ios.kicad_sch`: schematic file
-* `dvrk-ios.kicad_pcb`: PCB layout
+* `dvrk-ios.kicad_sch`: schematic file (KiCad format)
+* `dvrk-ios.kicad_pcb`: PCB layout (KiCad format)
+* `dvrk-ios-bom.xlsx`: Bill of Materials (Excel format)
