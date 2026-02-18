@@ -12,3 +12,9 @@ This board is used in the [dVRK Si Controller](https://github.com/jhu-dvrk/dVRK-
 * `dvrk-ios.kicad_sch`: Schematics (KiCad format)
 * `dvrk-ios.kicad_pcb`: PCB layout (KiCad format)
 * `dvrk-ios-bom.xlsx`: Bill of Materials (Excel format)
+
+## Subdirectories: these are not required, since the symbols and footprints are already stored in the kicad_sch and kicad_pcb files
+
+* `3d`: 3D models of parts
+* `DVRK.pretty`: Library of footprints (for PCB)
+* `symbols`: Library of symbols (for schematics)
