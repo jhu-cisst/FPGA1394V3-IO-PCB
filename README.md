@@ -18,3 +18,9 @@ This board is used in the [dVRK Si Controller](https://github.com/jhu-dvrk/dVRK-
 * `3d`: 3D models of parts
 * `DVRK.pretty`: Library of footprints (for PCB)
 * `symbols`: Library of symbols (for schematics)
+
+## Release Assets
+
+* `dvrk-ios-schematics.pdf`: PDF of schematics
+* `dvrk-ios-pcb.zip`: Gerber files for PCB fabrication
+* `dvrk-ios-assembly.zip`: Assembly files (BOM, CPL) for JLCPCB
