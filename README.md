@@ -6,6 +6,10 @@ This board connects to the DF11 connector (J9) on FPGA1394V3, which provides +3.
 
 This board is used in the [dVRK Si Controller](https://github.com/jhu-dvrk/dVRK-Si-Controller), starting with Rev 4 of the enclosure.
 
+## DB9F Connector Pinout
+
+![DB9F Pinout](pinout/pinout.png)
+
 ## Files
 
 * `dvrk-ios.kicad_pro`: KiCad project file
