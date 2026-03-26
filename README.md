@@ -8,7 +8,7 @@ This board is used in the [dVRK Si Controller](https://github.com/jhu-dvrk/dVRK-
 
 ## DB9F Connector Pinout
 
-![DB9F Pinout](pinout/pinout.png)
+<img src="pinout/pinout.png" width="35%" height="auto">
 
 ## Files
 
